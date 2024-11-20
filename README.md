@@ -6,7 +6,7 @@ Currently, custom GitLab templates are not available in the Community Edition (C
 
 ## Configuration & Installation
 <!-- Fill: How to start running this project? -->
-Fork the repository or copy its files, and search for "Fill" placeholders where changes should be applied according to the project's needs.
+Fork this repository or copy its files, and replace 'Fill' placeholders with project-specific details.
 
 ## Usage Examples
 <!-- Fill: What can be done with this project? -->
@@ -23,14 +23,18 @@ Fork the repository or copy its files, and search for "Fill" placeholders where 
 ## Roadmap
 [ROADMAP.md](./ROADMAP.md) file includes upcoming features and future plans.
 
+## Changelog
+[CHANGELOG.md](./CHANGELOG.md) file includes project changes in each release.
+
 ## Support
-Everyone is welcome to submit an issue ticket on either GitHub or GitLab (depending on which platform this mirror of the project is hosted). It will be automatically reviewed, and a notification will be sent to the project main developer.  
-If you prefer private support (not wishing to show logs in a public issue ticket), you can contact the project main developer via email at <!-- Fill: [support@hjhp.io](mailto:support@hjhp.io)-->.
+Everyone is welcome to submit an issue ticket on either GitHub or GitLab (depending on which platform this mirror of the project is hosted). Submitted issues will be automatically reviewed, and the main developer will be notified.
+If you prefer private support (e.g., if you do not wish to share logs publicly), you can contact the project main developer via email at <!-- Fill: [support@hjhp.io](mailto:support@hjhp.io)-->.
 
 ## Security
 If you identify any security problems, please contact us immediately with the necessary details via email at <!-- Fill: [security@hjhp.io](mailto:security@hjhp.io)-->.  
 Please note that the email could end up in the spam folder. If you do not receive a timely response, please try emailing again.  
-If the detected vulnerability is critical and the response to emails is not fast enough, please create an issue ticket to spread the information and keep other users aware of the danger.
+If the detected vulnerability is critical and the response to emails is not fast enough, please create an issue ticket to inform others and mitigate potential risks.
+For more information please refer to [SECURITY.md](./SECURITY.md) file.
 
 ## Contributing
 Everyone is welcome to contribute via GitHub pull requests or GitLab merge requests.
@@ -40,7 +44,7 @@ Instructions on how to contribute can be found in [CONTRIBUTING.md](./CONTRIBUTI
 ## Attribution
 This project is maintained by its contributors.
 The main tools and technologies used are listed in the [ATTRIBUTION-manual.md](./ATTRIBUTION-manual.md) file.
-Automatically used dependencies and their acknowledgments will be updated in the [ATTRIBUTION.md](./ATTRIBUTION.md). file.
+Automatically detected dependencies and their acknowledgments are listed in the [ATTRIBUTION.md](./ATTRIBUTION.md). file.
 
 ## License
 *TL;DR:* This project is licensed under the MIT License.  
