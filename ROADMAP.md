@@ -1,1 +1,2 @@
 - Fill project template
+- Update license (if still using MIT then change this line: Copyright (c) 2024 HJHP)
