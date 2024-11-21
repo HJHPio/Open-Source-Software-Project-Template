@@ -8,7 +8,7 @@ Currently, custom GitLab templates are not available in the Community Edition (C
 <!-- Fill: How to start running this project? -->
 Fork this repository or copy its files, and replace 'Fill' placeholders with project-specific details.
 
-## Usage Examples
+<!-- ## Usage Examples -->
 <!-- Fill: What can be done with this project? -->
 
 <!-- ## Badges -->  
@@ -28,10 +28,10 @@ Fork this repository or copy its files, and replace 'Fill' placeholders with pro
 
 ## Support
 Everyone is welcome to submit an issue ticket on either GitHub or GitLab (depending on which platform this mirror of the project is hosted). Submitted issues will be automatically reviewed, and the main developer will be notified.
-If you prefer private support (e.g., if you do not wish to share logs publicly), you can contact the project main developer via email at <!-- Fill: [support@hjhp.io](mailto:support@hjhp.io)-->.
+If you prefer private support (e.g., if you do not wish to share logs publicly), you can contact the project main developer via email at <!-- Fill: [support@company.example](mailto:support@company.example)-->.
 
 ## Security
-If you identify any security problems, please contact us immediately with the necessary details via email at <!-- Fill: [security@hjhp.io](mailto:security@hjhp.io)-->.  
+If you identify any security problems, please contact us immediately with the necessary details via email at <!-- Fill: [security@company.example](mailto:security@company.example)-->.  
 Please note that the email could end up in the spam folder. If you do not receive a timely response, please try emailing again.  
 If the detected vulnerability is critical and the response to emails is not fast enough, please create an issue ticket to inform others and mitigate potential risks.
 For more information please refer to [SECURITY.md](./SECURITY.md) file.

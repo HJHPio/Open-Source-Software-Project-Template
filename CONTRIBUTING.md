@@ -3,7 +3,7 @@
 Thank you for your interest in contributing! Here are some guidelines to help you get started.
 
 ## How to Contribute
-- **Developing**
+- **Developing & Testing**
   <!-- - FILL: add information on how to start development faster -->
 
 - **Reporting Bugs**

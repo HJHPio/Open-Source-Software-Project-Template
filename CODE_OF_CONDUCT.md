@@ -12,4 +12,4 @@ We pledge to make participation in our project a harassment-free experience for 
 
 ## Enforcement
 
-Instances of abusive behavior may be reported to the project team at  <!-- Fill: [contribution@hjhp.io](mailto:contribution@hjhp.io)-->.
+Instances of abusive behavior may be reported to the project team at  <!-- Fill: [contribution@company.example](mailto:contribution@company.example)-->.
