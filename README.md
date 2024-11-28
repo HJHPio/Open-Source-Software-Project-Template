@@ -1,3 +1,5 @@
+Parent project: [OwnLab](https://github.com/orgs/HJHPio/projects/2)  
+![OwnLabLogo](./IMGs/OwnLab/OwnLab-Logo-1_V2024.11.28.png)
 # OpenSource Software Project Template
 <!-- Fill: What & Why -->
 This is a template for future open-source software projects.
